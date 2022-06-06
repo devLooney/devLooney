@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devLooney
+- 👀 I’m interested in web development, and what not.
+- 🌱 I’m currently learning CSS, I also tryed javascript, but I am focused on getting better at CSS first.
+- 💞️ I’m looking to collaborate on any kind of project acctually, as long as my experience is enough.
+- 📫 You can email me if you want to vss.vinisouza@gmail.com
